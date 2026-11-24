@@ -14,5 +14,8 @@
     "carousel",
     "social-media",
     "mcp"
-  ]
+  ],
+  "logo": "assets/slidedrift-icon.png",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
 }
