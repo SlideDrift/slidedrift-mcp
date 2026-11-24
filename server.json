@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.slidedrift/mcp",
+  "title": "SlideDrift MCP",
+  "description": "Turn your notes, articles and ideas into LinkedIn posts in your brand, ready to edit and schedule.",
+  "version": "0.3.2",
+  "websiteUrl": "https://slidedrift.com/developers/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://slidedrift.com/mcp"
+    }
+  ]
+}

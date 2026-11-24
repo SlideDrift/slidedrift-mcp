@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "slidedrift",
+  "version": "1.0.0",
+  "description": "Turn what you know into LinkedIn posts in your brand: plan, create, edit, export and schedule carousels and posts with SlideDrift's MCP server.",
+  "license": "MIT",
+  "homepage": "https://slidedrift.com/developers/mcp",
+  "repository": "https://github.com/SlideDrift/slidedrift-mcp",
+  "author": {
+    "name": "SlideDrift",
+    "url": "https://slidedrift.com"
+  },
+  "keywords": [
+    "linkedin",
+    "carousel",
+    "social-media",
+    "content",
+    "mcp"
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "slidedrift": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
+}

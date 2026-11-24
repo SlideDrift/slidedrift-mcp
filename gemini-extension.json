@@ -1,0 +1,11 @@
+{
+  "name": "slidedrift",
+  "version": "1.0.0",
+  "description": "Turn what you know into LinkedIn posts in your brand",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "slidedrift": {
+      "httpUrl": "https://slidedrift.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "identifier": "slidedrift",
+  "name": "SlideDrift",
+  "version": "1.0.0",
+  "description": "Turn what you know into LinkedIn posts in your brand: plan, create, edit, export and schedule carousels and posts with SlideDrift's MCP server.",
+  "author": "SlideDrift",
+  "authorUrl": "https://slidedrift.com",
+  "homepage": "https://slidedrift.com/developers/mcp",
+  "cloudEndpoint": "https://slidedrift.com/mcp",
+  "icon": "https://slidedrift.com/apple-icon.png",
+  "tags": [
+    "linkedin",
+    "carousel",
+    "social-media",
+    "content",
+    "marketing"
+  ],
+  "tools": []
+}
